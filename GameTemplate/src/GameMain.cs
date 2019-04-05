@@ -11,7 +11,7 @@ namespace MyGame
         {
             //Open the game window
 
-            OpenGraphicsWindow("GameMain", 900, 700);
+            OpenGraphicsWindow("GameMain", 300, 700);
 
             ShowSwinGameSplashScreen();
             
