@@ -10,7 +10,9 @@ namespace MyGame
         public static void Main()
         {
             //Open the game window
-            OpenGraphicsWindow("GameMain", 300, 500);
+
+            OpenGraphicsWindow("GameMain", 900, 700);
+
             ShowSwinGameSplashScreen();
             
             //Run the game loop
